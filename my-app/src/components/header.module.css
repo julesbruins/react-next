@@ -1,0 +1,12 @@
+.header {
+    ul {
+        display: flex;
+        justify-content: space-between;
+        padding: 1rem;
+        list-style-type: none;
+        background-color: lightpink;
+        height: 20vh;
+        align-items: center;
+    }
+}
+
