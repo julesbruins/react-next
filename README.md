@@ -43,3 +43,7 @@ Belangrijkste van alles is dat je .jsx of .js bestanden waar je je HTML typt nie
 
 
 ## CONTENT MANAGEMENT EXPERIENCE
+Gekozen CMS voor nu is Sanity.
+- Iets technischer
+- Interface moet eerst ingedeeld worden door developer
+- Alles kan aangepast worden dus erg groot. 
