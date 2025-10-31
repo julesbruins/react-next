@@ -22,11 +22,11 @@ Belangrijkste van alles is dat je .jsx of .js bestanden waar je je HTML typt nie
 
 
 ### PERFORMANCE
-- Automatic Code Splitting: Laadt alleen de benodigde JavaScript voor elke pagina, waardoor de prestaties verbeteren.
-- Performance Optimization: Static Site Generation (SSG) en Server-Side Rendering (SSR) verbeteren de laadsnelheid en SEO.
-- Image Optimization: Met next/image worden de laadtijden verkort door automatisch lazy loading en formaatwijziging.
-- Component lazy loading: Next.js gebruikt lazy loading om de weergave van componenten te optimaliseren. Je kunt het gebruiken om componenten naar behoefte weer te geven in plaats van ze allemaal tegelijk te laden.
-- Built-in caching:  Caching helpt bij het opslaan van bepaalde gegevens, zodat deze, wanneer dezelfde gegevens opnieuw worden opgevraagd, sneller kunnen worden geleverd zonder dat ze herhaaldelijk van de server hoeven te worden opgehaald.
+- **Automatic Code Splitting:** Laadt alleen de benodigde JavaScript voor elke pagina, waardoor de prestaties verbeteren.
+- **Performance Optimization:** Static Site Generation (SSG) en Server-Side Rendering (SSR) verbeteren de laadsnelheid en SEO.
+- **Image Optimization:** Met next/image worden de laadtijden verkort door automatisch lazy loading en formaatwijziging.
+- **Component lazy loading:** Next.js gebruikt lazy loading om de weergave van componenten te optimaliseren. Je kunt het gebruiken om componenten naar behoefte weer te geven in plaats van ze allemaal tegelijk te laden.
+- **Built-in caching:**  Caching helpt bij het opslaan van bepaalde gegevens, zodat deze, wanneer dezelfde gegevens opnieuw worden opgevraagd, sneller kunnen worden geleverd zonder dat ze herhaaldelijk van de server hoeven te worden opgehaald.
 
 
 ## DEVELOPER EXPERIENCE
